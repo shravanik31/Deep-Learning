@@ -12,6 +12,9 @@ I have specified my respective paths to the training data features folder and tr
 
 A trained model with name “model_shravani.h5” is saved at the end of training process.
 
+Please download the model from https://drive.google.com/file/d/19dvvQgTKG4UelaMULE6lmvMWQ06yPlLJ/view?usp=sharing
+as downloading from the GitHub may have some issues (compression and extraction). I have performed this assignment on Palmetto cluster using CUDA. So please test the model with CUDA supporting device.
+
 Testing:
 Before starting the testing process, please download the pretrained model “model_shravani.h5”, testing_label.json, index_to_word.pickle and blue_eval.py files to your respective directory.
 
