@@ -4,7 +4,7 @@ The goal for this assignment is to develop a model which takes text paragraph an
 Dataset:
 The dataset that is used for this project is the Stanford Question Answering Dataset (SQAD).
 
-Model Building:
+Model:
 I used the distilbert-base-uncased model from Hugging Face which is smaller and faster version of BERT.
 
 Testing:
