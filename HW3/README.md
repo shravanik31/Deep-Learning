@@ -2,7 +2,7 @@ Extractive Question Answering:
 The goal for this assignment is to develop a model which takes text paragraph and question as inputs and returns the answer which is in the paragraph.
 
 Dataset:
-The dataset that is used for this project is the Stanford Question Answering Dataset (SQAD). You can download the datasets from the dataset folder.
+The dataset that is used for this project is the Stanford Question Answering Dataset (SQAD). You can download the datasets (spoken_train-v1.1.json, spoken_test-v1.1.json, spoken_test-v1.1_WER44.json, spoken_test-v1.1_WER54.json)
 
 Model:
 I used the distilbert-base-uncased model from Hugging Face which is smaller and faster version of BERT.
